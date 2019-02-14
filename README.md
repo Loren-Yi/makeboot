@@ -2,12 +2,12 @@
 这是一个解包打包boot的工具
 
 bootimg.exe功能：<br>
-解包命令：bootimg.exe –unpack-bootimg <br>      
+解包命令：bootimg.exe –unpack-bootimg <br>
 打包命令：bootimg.exe –repack-bootimg 
 
 recovery/boot文件放到bootimg.exe同一级目录即可。
 
-更多命令：
+更多命令： <br>
 –add-head <br>
 –cml <br>
 –cpio-list <br>

@@ -3,9 +3,9 @@
 
 bootimg.exe功能：
 
-解包命令：bootimg.exe –unpack-bootimg      
+解包命令：bootimg.exe –unpack-bootimg      
 
-打包命令：bootimg.exe –repack-bootimg   
+打包命令：bootimg.exe –repack-bootimg   
 
 recovery/boot文件放到bootimg.exe同一级目录即可。
 

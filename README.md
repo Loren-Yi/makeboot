@@ -1,8 +1,7 @@
 # makeboot
 这是一个解包打包boot的工具
 
-bootimg.exe功能：
-
+bootimg.exe功能：<br>
 解包命令：bootimg.exe –unpack-bootimg      
 
 打包命令：bootimg.exe –repack-bootimg   

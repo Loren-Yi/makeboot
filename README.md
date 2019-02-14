@@ -4,7 +4,6 @@
 bootimg.exe功能：<br>
 解包命令：bootimg.exe –unpack-bootimg <br>      
 打包命令：bootimg.exe –repack-bootimg <br>   
-
 recovery/boot文件放到bootimg.exe同一级目录即可。
 
 更多命令：<br>
@@ -16,7 +15,7 @@ recovery/boot文件放到bootimg.exe同一级目录即可。
 –dzlib <br>
 –remove-head <br>
 –repack-565 <br>
-–repack-bootimg < <br>>
+–repack-bootimg <br>
 –repack-ramdisk <br>
 –repack-rle <br>
 –repack-zte-bin <br>

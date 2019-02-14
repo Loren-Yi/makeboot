@@ -1,4 +1,4 @@
-# Boot-Editor
+# makeboot
 这是一个解包打包boot的工具
 
 bootimg.exe功能：

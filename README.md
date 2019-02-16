@@ -37,5 +37,5 @@ recovery/boot文件放到bootimg.exe同一级目录即可。
 
 以上是所有该工具命令。
 
-![fuli](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550294883957&di=e667cb19df6734a12b3f951c7a8d87ca&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F3%2F57ad42907ed8c.jpg)
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550294883957&di=e667cb19df6734a12b3f951c7a8d87ca&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F3%2F57ad42907ed8c.jpg" width = "640" height = "300" div align=right />
 

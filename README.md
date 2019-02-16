@@ -2,8 +2,8 @@
 这是一个解包打包boot的工具。
 
 bootimg.exe功能：<br>
-解包命令：bootimg.exe –unpack-bootimg <br>
-打包命令：bootimg.exe –repack-bootimg 
+解包命令：`bootimg.exe –unpack-bootimg` <br>
+打包命令：`bootimg.exe –repack-bootimg` 
 
 recovery/boot文件放到bootimg.exe同一级目录即可。
 
@@ -37,5 +37,5 @@ recovery/boot文件放到bootimg.exe同一级目录即可。
 
 以上是所有该工具命令。
 
-![fuli](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550294749603&di=b52d136d0a77dad693160768daf16396&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01d27e5a3cadffa801219741772ccf.jpg%402o.jpg)
+![fuli](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550294883957&di=e667cb19df6734a12b3f951c7a8d87ca&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F3%2F57ad42907ed8c.jpg)
 
